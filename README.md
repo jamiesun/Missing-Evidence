@@ -1,119 +1,125 @@
 # Missing-Evidence
 
-A collection of short stories.
+一个短篇小说合集。
 
-These stories are not written to explain ideas.
-They are written to show what happens
-when someone treats an absence as a fact
-and acts on it.
-
----
-
-## What This Project Is
-
-This repository contains short fiction only.
-
-Each story is built around:
-- one concrete event
-- one irreversible choice
-- one observable consequence
-
-There are no excerpts, no chapters, and no fragments.
-Every text here is intended to stand alone.
+这些故事不是为了阐释观点而写。
+它们写的是：当某人把“缺席”当作事实，
+并据此采取行动时，会发生什么。
 
 ---
 
-## What This Project Is NOT
+## 这个项目是什么
 
-- Not a novel-in-progress
-- Not character sketches
-- Not worldbuilding notes
-- Not philosophical essays in disguise
+这个仓库只包含短篇虚构作品。
 
-If a story cannot survive without prior context,
-it does not belong here.
+每个故事都围绕以下要素构建：
 
----
+- 一个具体事件
+- 一个不可逆的选择
+- 一个可被观察的结果
 
-## Core Constraints
-
-All stories in this project follow these rules:
-
-1. **Single event**
-   - One situation
-   - One pressure point
-   - No parallel timelines
-
-2. **Action over explanation**
-   - No author commentary
-   - No thematic summaries
-   - Meaning must emerge from behavior
-
-3. **Absence must have weight**
-   - Something expected does not appear
-   - Someone notices
-   - A decision is made because of it
-   - The decision has a cost
-
-4. **Short story scale**
-   - Focus on exposure, not growth
-   - Characters reveal who they are
-   - They do not complete arcs
+这里没有节选、没有章节、也没有碎片。
+每一篇文字都被设计为可以独立成立。
 
 ---
 
-## File Structure
+## 这个项目不是什么
 
+- 不是连载中的长篇小说
+- 不是人物小传/角色速写
+- 不是世界观设定笔记
+- 不是披着故事外衣的哲学随笔
+
+如果一篇故事离不开先验背景就无法成立，
+它就不属于这里。
+
+---
+
+## 核心约束
+
+本项目中的所有故事都遵循以下规则：
+
+1. **单一事件**
+
+   - 一个情境
+   - 一个压力点
+   - 不使用平行时间线
+
+2. **行动优先于解释**
+
+   - 不写作者旁白/点评
+   - 不写主题总结
+   - 意义必须从行为中自然浮现
+
+3. **缺席必须有重量**
+
+   - 预期之物没有出现
+   - 有人察觉
+   - 因此做出决定
+   - 这个决定要付出代价
+
+4. **短篇尺度**
+   - 聚焦“暴露”，而非“成长”
+   - 角色呈现他们是谁
+   - 他们不完成完整的成长弧线
+
+---
+
+## 目录结构
+
+```bash
 /stories
-├── story_001.md
-├── story_002.md
-└── …
+   ├── story_001.md
+   ├── story_002.md
+   └── …
 /notes
-└── constraints.md
-README.md
+   └── constraints.md
+   README.md
+```
 
 - `/stories` contains finished short stories only
-- `/notes` contains writing constraints and process notes
-- Drafts stay out of this repository
+- `/stories` 仅包含已完成的短篇小说
+- `/notes` 包含写作约束与过程笔记
+- 草稿不放入本仓库
 
 ---
 
-## Language
+## 语言风格
 
-- Concrete nouns over abstract terms
-- Physical actions over emotional labels
-- Sensory detail is preferred
-- Vague adjectives are avoided
+- 具体名词优先于抽象词汇
+- 具体动作优先于情绪标签
+- 更偏好感官细节
+- 避免含糊的形容词
 
-If a sentence cannot be observed,
-it is rewritten or removed.
-
----
-
-## Why This Exists
-
-This project exists to test one question:
-
-> What does the world do
-> when someone mistakes silence,
-> delay, or absence
-> for certainty?
-
-No conclusions are provided.
-Only outcomes.
+如果一句话无法被“观察到”，
+就会被改写或删去。
 
 ---
 
-## Status
+## 为什么要做这个
 
-Ongoing.
+这个项目存在，是为了检验一个问题：
 
-Stories are added when they are finished,
-not when they are timely.
+> 当某人把沉默、
+> 延迟或缺席
+> 误认为确定性时，
+> 世界会如何回应？
+
+不提供结论。
+只呈现结果。
 
 ---
 
-## License
+## 状态
 
-All stories are original works.
-Reuse or redistribution requires permission.
+持续进行中。
+
+故事只会在写完之后加入，
+而不是为了赶时效。
+
+---
+
+## 许可
+
+所有故事均为原创作品。
+转载或再分发需获得许可。
