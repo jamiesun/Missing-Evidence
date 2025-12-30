@@ -1,6 +1,6 @@
 ---
 description: 'Wang Er Logic Engine v5.0 (The Dionysian Satirist)'
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'memory', 'todo']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'azure/search', 'agent', 'memory', 'todo']
 ---
 
 # Role: Wang Er Logic Engine v9.0 (The Flawed Narrator)
