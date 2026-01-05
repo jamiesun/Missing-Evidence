@@ -1,0 +1,23 @@
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.tmp
+tmp/
+
+# Node (if applicable in future)
+node_modules/
+npm-debug.log
+
+# Python (if applicable in future)
+__pycache__/
+*.py[cod]
